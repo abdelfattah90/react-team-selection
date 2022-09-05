@@ -1,0 +1,88 @@
+const employees = [
+  {
+    id: 1,
+    name: 'Ahmed Abdelfattah',
+    designation: 'JavaScript Developer',
+    gender: 'male',
+    teamName: 'Team A',
+  },
+  {
+    id: 2,
+    name: 'A A',
+    designation: 'Node Developer',
+    gender: 'female',
+    teamName: 'Team A',
+  },
+  {
+    id: 3,
+    name: 'B B',
+    designation: 'Java Developer',
+    gender: 'female',
+    teamName: 'Team A',
+  },
+  {
+    id: 4,
+    name: 'C C',
+    designation: 'React Developer',
+    gender: 'male',
+    teamName: 'Team B',
+  },
+  {
+    id: 5,
+    name: 'D D',
+    designation: 'DotNet Developer',
+    gender: 'male',
+    teamName: 'Team B',
+  },
+  {
+    id: 6,
+    name: 'F F',
+    designation: 'SQL Server DBA',
+    gender: 'female',
+    teamName: 'Team B',
+  },
+  {
+    id: 7,
+    name: 'G G',
+    designation: 'Angular Developer',
+    gender: 'male',
+    teamName: 'Team C',
+  },
+  {
+    id: 8,
+    name: 'T T',
+    designation: 'API Developer',
+    gender: 'female',
+    teamName: 'Team C',
+  },
+  {
+    id: 9,
+    name: 'M M',
+    designation: 'C++ Developer',
+    gender: 'female',
+    teamName: 'Team C',
+  },
+  {
+    id: 10,
+    name: 'N N',
+    designation: 'Python Developer',
+    gender: 'male',
+    teamName: 'Team D',
+  },
+  {
+    id: 11,
+    name: 'P P',
+    designation: 'Vue Developer',
+    gender: 'male',
+    teamName: 'Team D',
+  },
+  {
+    id: 12,
+    name: 'Z Z',
+    designation: 'Graphic Designer',
+    gender: 'male',
+    teamName: 'Team D',
+  },
+]
+
+export default employees
